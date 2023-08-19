@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Zimmermans_telegram\Zimmermans_telegram\Source.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Zimmermans_telegram\Zimmermans_telegram\Source.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Zimmermans_telegram\Zimmermans_telegram\Source.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+  Zimmermans_telegram.vcxproj -> C:\Users\User\source\repos\Zimmermans_telegram\Debug\Zimmermans_telegram.exe
